@@ -5,4 +5,4 @@
 
 This should result in an error:
 
->  find package '@babel/plugin-proposal-class-properties'
+> cannot find package '@babel/plugin-proposal-class-properties'
