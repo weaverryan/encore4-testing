@@ -46,7 +46,6 @@ Encore
     .enableVersioning(Encore.isProduction())
 
     .configureBabel((config) => {
-        config.plugins.push('@babel/plugin-proposal-class-properties');
     })
 
     // enables @babel/preset-env polyfills
